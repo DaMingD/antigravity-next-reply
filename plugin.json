@@ -1,0 +1,14 @@
+{
+  "name": "next-reply",
+  "displayName": "Next Reply 快捷回复",
+  "version": "1.0.0",
+  "author": "DaMingD",
+  "repository": "https://github.com/DaMingD/antigravity-next-reply",
+  "description": "在每次实质性回复末尾渲染原生风格的可点击快捷回复胶囊，预判用户下一步最可能说的话，点击即可一键发送或微调后再发。",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "演示一下 Next Reply 快捷回复胶囊的效果",
+    "调整快捷回复的风格为更简短直接",
+    "解释 Next Reply 插件是如何工作的"
+  ]
+}
